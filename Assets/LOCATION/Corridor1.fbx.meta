@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: cbc083ebf0fdc444fa0a57cc8e97993a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Castle_celing01
+    100002: Castle_floor01
+    100004: Castle_Viga01
+    100006: Castle_wall01
+    100008: //RootNode
+    400000: Castle_celing01
+    400002: Castle_floor01
+    400004: Castle_Viga01
+    400006: Castle_wall01
+    400008: //RootNode
+    2100000: teto baked 1
+    2100002: wallbaked
+    2100004: chao1baked
+    2100006: viga baked1_
+    2300000: Castle_celing01
+    2300002: Castle_floor01
+    2300004: Castle_Viga01
+    2300006: Castle_wall01
+    3300000: Castle_celing01
+    3300002: Castle_floor01
+    3300004: Castle_Viga01
+    3300006: Castle_wall01
+    4300000: Castle_celing01
+    4300002: Castle_wall01
+    4300004: Castle_floor01
+    4300006: Castle_Viga01
+    7400000: Castle_celing01|CubeAction.004
+    7400002: Castle_celing01|CubeAction.008
+    7400004: Castle_celing01|CubeAction.009
+    7400006: Castle_celing01|CubeAction.012
+    7400008: Castle_celing01|CubeAction.013
+    7400010: Castle_celing01|CubeAction.019
+    7400012: Castle_celing01|CubeAction.021
+    7400014: Castle_celing01|CubeAction.022
+    7400016: Castle_celing01|CubeAction.023
+    7400018: Castle_celing01|CubeAction.024
+    7400020: Castle_celing01|CubeAction.025
+    7400022: Castle_celing01|CubeAction.026
+    7400024: Castle_celing01|CubeAction.027
+    7400026: Castle_celing01|CubeAction.028
+    7400028: Castle_celing01|CubeAction.029
+    7400030: Castle_celing01|CubeAction.030
+    7400032: Castle_celing01|CubeAction.031
+    7400034: Castle_celing01|CubeAction.032
+    7400036: Castle_celing01|CubeAction.033
+    7400038: Castle_celing01|CubeAction.035
+    7400040: Castle_celing01|CubeAction.037
+    7400042: Castle_celing01|CubeAction.038
+    7400044: Castle_celing01|CubeAction.039
+    7400046: Castle_celing01|CubeAction.040
+    7400048: Castle_celing01|CubeAction.041
+    7400050: Castle_celing01|CubeAction.042
+    7400052: Castle_celing01|CubeAction.044
+    7400054: Castle_celing01|CubeAction.045
+    7400056: Castle_celing01|CubeAction.047
+    7400058: Castle_celing01|CubeAction.048
+    7400060: Castle_celing01|CubeAction.049
+    7400062: Castle_celing01|CubeAction.050
+    7400064: Castle_celing01|CubeAction.051
+    7400066: Castle_celing01|CubeAction.053
+    7400068: Castle_celing01|CubeAction.059
+    7400070: Castle_wall01|CubeAction.004
+    7400072: Castle_wall01|CubeAction.008
+    7400074: Castle_wall01|CubeAction.009
+    7400076: Castle_wall01|CubeAction.012
+    7400078: Castle_wall01|CubeAction.013
+    7400080: Castle_wall01|CubeAction.019
+    7400082: Castle_wall01|CubeAction.021
+    7400084: Castle_wall01|CubeAction.022
+    7400086: Castle_wall01|CubeAction.023
+    7400088: Castle_wall01|CubeAction.024
+    7400090: Castle_wall01|CubeAction.025
+    7400092: Castle_wall01|CubeAction.026
+    7400094: Castle_wall01|CubeAction.027
+    7400096: Castle_wall01|CubeAction.028
+    7400098: Castle_wall01|CubeAction.029
+    7400100: Castle_wall01|CubeAction.030
+    7400102: Castle_wall01|CubeAction.031
+    7400104: Castle_wall01|CubeAction.032
+    7400106: Castle_wall01|CubeAction.033
+    7400108: Castle_wall01|CubeAction.035
+    7400110: Castle_wall01|CubeAction.037
+    7400112: Castle_wall01|CubeAction.038
+    7400114: Castle_wall01|CubeAction.039
+    7400116: Castle_wall01|CubeAction.040
+    7400118: Castle_wall01|CubeAction.041
+    7400120: Castle_wall01|CubeAction.042
+    7400122: Castle_wall01|CubeAction.044
+    7400124: Castle_wall01|CubeAction.045
+    7400126: Castle_wall01|CubeAction.047
+    7400128: Castle_wall01|CubeAction.048
+    7400130: Castle_wall01|CubeAction.049
+    7400132: Castle_wall01|CubeAction.050
+    7400134: Castle_wall01|CubeAction.051
+    7400136: Castle_wall01|CubeAction.053
+    7400138: Castle_wall01|CubeAction.059
+    7400140: Castle_floor01|CubeAction.004
+    7400142: Castle_floor01|CubeAction.008
+    7400144: Castle_floor01|CubeAction.009
+    7400146: Castle_floor01|CubeAction.012
+    7400148: Castle_floor01|CubeAction.013
+    7400150: Castle_floor01|CubeAction.019
+    7400152: Castle_floor01|CubeAction.021
+    7400154: Castle_floor01|CubeAction.022
+    7400156: Castle_floor01|CubeAction.023
+    7400158: Castle_floor01|CubeAction.024
+    7400160: Castle_floor01|CubeAction.025
+    7400162: Castle_floor01|CubeAction.026
+    7400164: Castle_floor01|CubeAction.027
+    7400166: Castle_floor01|CubeAction.028
+    7400168: Castle_floor01|CubeAction.029
+    7400170: Castle_floor01|CubeAction.030
+    7400172: Castle_floor01|CubeAction.031
+    7400174: Castle_floor01|CubeAction.032
+    7400176: Castle_floor01|CubeAction.033
+    7400178: Castle_floor01|CubeAction.035
+    7400180: Castle_floor01|CubeAction.037
+    7400182: Castle_floor01|CubeAction.038
+    7400184: Castle_floor01|CubeAction.039
+    7400186: Castle_floor01|CubeAction.040
+    7400188: Castle_floor01|CubeAction.041
+    7400190: Castle_floor01|CubeAction.042
+    7400192: Castle_floor01|CubeAction.044
+    7400194: Castle_floor01|CubeAction.045
+    7400196: Castle_floor01|CubeAction.047
+    7400198: Castle_floor01|CubeAction.048
+    7400200: Castle_floor01|CubeAction.049
+    7400202: Castle_floor01|CubeAction.050
+    7400204: Castle_floor01|CubeAction.051
+    7400206: Castle_floor01|CubeAction.053
+    7400208: Castle_floor01|CubeAction.059
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
