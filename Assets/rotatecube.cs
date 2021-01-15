@@ -16,4 +16,5 @@ public class rotatecube : MonoBehaviour
     {
         transform.Rotate(0, spinforce * Time.deltaTime, 0);
     }
+ 
 }
