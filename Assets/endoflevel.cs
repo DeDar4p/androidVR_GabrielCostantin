@@ -11,4 +11,9 @@ public class endoflevel : MonoBehaviour
     {
         SceneManager.LoadScene("FPS");
     }
+
+    public void exit()
+    {
+        Application.Quit();
+    }
 } 
